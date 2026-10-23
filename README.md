@@ -11,7 +11,7 @@ This repository demonstrates basic Git and GitHub workflows for a skills test as
 
 ## Repository Contents
 * `README.md`: Project description and documentation.
-* `sample_data.py`: Required sample data script.
+* `NMIS.CSV`: Market information data.
 
 ## Setup and Usage
 1. Clone the repository:
